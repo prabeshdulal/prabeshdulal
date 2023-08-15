@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabeshdulal
 - 👀 I’m interested in Blockchain technology.
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
